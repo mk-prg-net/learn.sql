@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TSQL-Intro">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(local)\SQL2016dev:MK_PRG_NET_01\marti_000">
+          <Created>2017-03-08T12:38:01.0725327+01:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)\SQL2016dev</Server>
+          <UserName />
+          <Authentication>Windows-Authentifizierung</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Abfrage</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="00_Achtung_Dbugprobleme_loesen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>00_Achtung_Dbugprobleme_loesen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01_Anweisungen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01_Anweisungen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02_Operatoren_und_Datentypen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02_Operatoren_und_Datentypen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_Select_etc_ue.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03_Select_etc_ue.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_Select_Group_Order.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03_Select_Group_Order.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Joins.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_Joins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Joins_Cross.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_Joins_Cross.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Joins_Inner_Outer.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_Joins_Inner_Outer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Joins_KeplerDB_1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_Joins_KeplerDB_1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Joins_KeplerDB_Speichern_in_View.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_Joins_KeplerDB_Speichern_in_View.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_Save_join_in_View_.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_Save_join_in_View_.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05_FileInfosJoin.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05_FileInfosJoin.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_outer_Joins.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06_outer_Joins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_subselects.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07_subselects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_CTE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08_CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_CTE-Recursive.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08_CTE-Recursive.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_Union.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08_Union.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_Apply.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09_Apply.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_Apply_KeplerDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09_Apply_KeplerDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10_temporaere_tabellen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10_temporaere_tabellen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11_rollup_cube_pivot.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11_rollup_cube_pivot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12_Fehlerbehandlung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>12_Fehlerbehandlung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13_insert_update_delete.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>13_insert_update_delete.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14_insert_mit_outputid.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>14_insert_mit_outputid.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15_create_view.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15_create_view.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15_CreateView_AsteroidenRank.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15_CreateView_AsteroidenRank.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15_CreateViewTrabantenUmlaufbahnen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>15_CreateViewTrabantenUmlaufbahnen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16_stored_procedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16_stored_procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16_stored_procedure_2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16_stored_procedure_2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16_stored_procedure_3.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16_stored_procedure_3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17_create_cursor.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>17_create_cursor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18_create_udf.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18_create_udf.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18_create_udf_3.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18_create_udf_3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18_create_udf_AsteroidenBahnabstaende.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18_create_udf_AsteroidenBahnabstaende.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18_create_udf_KeplerDB.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18_create_udf_KeplerDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18_Lastmessung_mit_AsteroidenBahnabstaende.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18_Lastmessung_mit_AsteroidenBahnabstaende.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19_create_trigger.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>19_create_trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20_transaktionen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>20_transaktionen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21_DynSql.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>21_DynSql.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30_DDL_Einschraenkungen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>30_DDL_Einschraenkungen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="31_DDL_Regeln.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>31_DDL_Regeln.sql</FullPath>
+        </FileNode>
+        <FileNode Name="32_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>32_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="32_indizes_gruppierend.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>32_indizes_gruppierend.sql</FullPath>
+        </FileNode>
+        <FileNode Name="33_Permutationen_big_Data.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>33_Permutationen_big_Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="40_Logins.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>40_Logins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FStream_FileTable_anlegen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NEXOC1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NEXOC1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>FStream_FileTable_anlegen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FStream_FstreamAnlegen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NEXOC1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NEXOC1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>FStream_FstreamAnlegen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FStream_Zugriff_auf_Pfad_in_Filetab.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NEXOC1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NEXOC1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>FStream_Zugriff_auf_Pfad_in_Filetab.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16_stored_procedure_keplerDB_universe.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>16_stored_procedure_keplerDB_universe.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,7 @@
+-- Um Probleme beim Debuggen zu vermeiden bitte im UNC- Name der Verbindung den lokalen Servername 
+-- auschschreiben und nicht durch . bezeichnen !
+-- Also: nicht .\SQLEXPRESS sondern MeinComputername\SQLEXPRESS, wenn MeinComputername der Name meines Computers ist
+--
+-- Weitere Voraussetzungen:
+-- Anwender muss sich am SQL- Server mit Konto anmelden, das die Rolle Sysadmins besitzt
+-- Managment- Studio muss unter Admin- Konto laufen 

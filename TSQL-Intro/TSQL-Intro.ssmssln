@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 13.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TSQL-Intro", "TSQL-Intro.ssmssqlproj", "{1B61BF39-0D45-46CC-9CC1-FFE92D855C70}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Schulung", "Schulung\Schulung\Schulung.ssmssqlproj", "{0B8439A5-6143-4D94-B3FF-5D3B9759252F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "MyIntro", "..\MyIntro\MyIntro.ssmssqlproj", "{E2B9A3DB-BA51-49F2-A188-18BE77F069C9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Admin", "..\Admin\Admin.ssmssqlproj", "{0B6EF64E-05D0-4592-B491-AC5C5FE82529}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "KeplerBI", "..\KeplerBI\KeplerBI.ssmssqlproj", "{FAD88A44-6FB7-4B92-80E1-C6062C0C1932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B61BF39-0D45-46CC-9CC1-FFE92D855C70}.Default|Default.ActiveCfg = Default
+		{0B8439A5-6143-4D94-B3FF-5D3B9759252F}.Default|Default.ActiveCfg = Default
+		{E2B9A3DB-BA51-49F2-A188-18BE77F069C9}.Default|Default.ActiveCfg = Default
+		{0B6EF64E-05D0-4592-B491-AC5C5FE82529}.Default|Default.ActiveCfg = Default
+		{ECB50DF3-2DF9-4A6C-AB10-94B7C0A7613F}.Default|Default.ActiveCfg = Default
+		{FAD88A44-6FB7-4B92-80E1-C6062C0C1932}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
