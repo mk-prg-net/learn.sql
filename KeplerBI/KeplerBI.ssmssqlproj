@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="KeplerBI">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(local)\SQL2016dev:MK_PRG_NET_01\marti_000">
+          <Created>2017-03-12T23:31:20.0863276+01:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)\SQL2016dev</Server>
+          <UserName />
+          <Authentication>Windows-Authentifizierung</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="create_logproc.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>create_logproc.sql</FullPath>
+        </FileNode>
+        <FileNode Name="createAntonBertaCaesarDBUsersProc.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>createAntonBertaCaesarDBUsersProc.sql</FullPath>
+        </FileNode>
+        <FileNode Name="createLogins.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>createLogins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="dropAntonBertaCaesarDBUsersProc.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>dropAntonBertaCaesarDBUsersProc.sql</FullPath>
+        </FileNode>
+        <FileNode Name="grantSchema.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>grantSchema.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
