@@ -31,11 +31,23 @@
           <AssociatedConnUserName />
           <FullPath>ConfigDBEmail.sql</FullPath>
         </FileNode>
+        <FileNode Name="CreateDatabaseSnapshot.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateDatabaseSnapshot.sql</FullPath>
+        </FileNode>
         <FileNode Name="CreateLogins.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>CreateLogins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreatePeriodicTimestampJob.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\SQL2016dev</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreatePeriodicTimestampJob.sql</FullPath>
         </FileNode>
         <FileNode Name="Database-Email-Test.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\SQL2016dev:True</AssociatedConnectionMoniker>
